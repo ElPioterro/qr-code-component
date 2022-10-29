@@ -69,4 +69,5 @@ p{
 ## Acknowledgments
 
 Huge thanks to [@vcarames](https://www.frontendmentor.io/profile/vcarames) from [frontendmentor.io](https://www.frontendmentor.io)! 💎
+
 He/She/They commented on someones solution and it really help me improve my code. 🥳
