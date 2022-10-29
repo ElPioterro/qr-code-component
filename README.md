@@ -51,13 +51,6 @@ body{
 }
 ```
 ```css
-body{
-    min-height: 100vh;
-    display: grid;
-    place-content: center;
-}
-```
-```css
 p{ 
     margin: 0px 14px 15px;
 }
