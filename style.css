@@ -42,6 +42,9 @@ body{
     right:0;
     margin: auto;
     
+    -webkit-box-shadow: 0px 9px 27px -12px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 9px 27px -12px rgba(66, 68, 90, 1);
+    box-shadow: 0px 9px 27px -12px rgba(66, 68, 90, 1);
 }
 .image{
     height: 380px;
