@@ -23,32 +23,30 @@ body{
     text-align: center;
     padding: 1rem;
 
-    /* position: absolute;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    margin: auto; */
     
     -webkit-box-shadow: 0px 9px 27px -12px rgba(66, 68, 90, 1);
     -moz-box-shadow: 0px 9px 27px -12px rgba(66, 68, 90, 1);
     box-shadow: 0px 9px 27px -12px rgba(66, 68, 90, 1);
 }
 .image{
-    max-width: 24rem;
+    width: 100%;
+    /* max-width: 24rem; */
     border-radius: 10px;
 }
 h1{
     color: var(--Dark-blue);
+    margin: 25px 0;
+    /*  */
 }
 p{
-    margin: 0 28px 30px; 
+    margin: 25px 28px 30px; 
+    /* margin: 0 28px 30px;  */
     font-size: 15pt;
     color:var(--Grayish-blue);
 }
 
 
-@media only screen and (max-width: 500px) 
+/* @media only screen and (max-width: 500px) 
 { 
     .card, .image{ 
         width:18rem;
@@ -61,4 +59,4 @@ p{
         margin: 0px 14px 15px;
         font-size:12pt;
     } 
-}
+} */

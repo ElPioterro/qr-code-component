@@ -60,6 +60,7 @@ p{
 
 - [Paddings!](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) - This helped me with padding syntax.
 - [Landmark on page content](https://dequeuniversity.com/rules/axe/4.3/region?application=axeAPI) - This is an amazing article which helped me finally understand why do i need main, header, footer etc. in my project. I'd recommend it to anyone how is still writing HTML with only div's.
+- [Box Shadow Generator](https://cssgenerator.pl/box-shadow-generator/) - This is an amazing tool for fast making box-shadow.
 
 ## Author
 
@@ -69,5 +70,6 @@ p{
 ## Acknowledgments
 
 Huge thanks to [@vcarames](https://www.frontendmentor.io/profile/vcarames) from [frontendmentor.io](https://www.frontendmentor.io)! 💎
-
 He/She/They commented on someones solution and it really help me improve my code. 🥳
+Huge thanks to [@MelvinAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) from [frontendmentor.io](https://www.frontendmentor.io)! 💎
+He/She/They commented on my solution and it really help me improve my code. 🥳
