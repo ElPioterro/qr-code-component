@@ -69,7 +69,6 @@ p{
 
 ## Acknowledgments
 
-Huge thanks to [@vcarames](https://www.frontendmentor.io/profile/vcarames) from [frontendmentor.io](https://www.frontendmentor.io)! 💎
-He/She/They commented on someones solution and it really help me improve my code. 🥳
-Huge thanks to [@MelvinAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) from [frontendmentor.io](https://www.frontendmentor.io)! 💎
-He/She/They commented on my solution and it really help me improve my code. 🥳
+Huge thanks to [@vcarames](https://www.frontendmentor.io/profile/vcarames) and [@MelvinAguilar](https://www.frontendmentor.io/profile/MelvinAguilar) from [frontendmentor.io](https://www.frontendmentor.io)! 💎
+
+They commented on someone's/mine solution and it really helped me improve my code. 🥳
